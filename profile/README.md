@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img alt="logo" src="./assets/razvans_dev_crew_logo.png">
+    <img alt="logo" width="256" height="256" src="/assets/razvans_dev_crew_logo.png">
   </picture>
 </p>
 
